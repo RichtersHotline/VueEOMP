@@ -20,32 +20,121 @@
     
     ],
 
-    "PersonalInfo": [
+    "About": [
          {
-       "firstName":"Keenan",
-       "lastName":"Timmie",
-       "age":22,
-       "dob":"9 March 2002",
-       "gender":"Male",
-       "homeLanguage":"English",
-        "mobileNumber":"065 045 1767"  
+            "Aboutme":"My name is Keenan Timmie I am an aspiring developer currently studying at Life Choices Academy I would say I am a junior developer, I started dabbling in coding from 14 just simple stuff at first never took CAT or anything like that so I had to teach myself. After a while I gradually tried harder and harder coding languages I would describe myself as a hard worker and an ambitious SOB (Son of a Birch) Nothing's ever enough for me, The road to success is not a road, but a ladder all that matters is climbing higher and higher until you reach the top. in my spare time I like to read history, play games read novels and code. I would like to say I'm a people person but that'd be a fib and that's illegal (I think). Honestly if I could just summarise as to what my goals are is that I want to be an example, coming from a hopeless suburb (Mitchells Plain) where people think everyone is lazy and useless I want to prove them wrong and I want to prove to the people of Mitchells Plain that through hard work and dedication you CAN have better conditions (also better hair)."
          }
     ],
     "Education": [
         {
-      "primarySchool":"Montagu Drive Primary",
-      "highSchool":"Westridge Secondary School",
-      "tertiaryEducation":"College Of Cape Town"
-    
+            "Id":1,
+            "School":"Montagu Drive Primary",
+            "Duration":"6 Years",
+            "Awards":"Certificate for Diligence"
+        },
+        {
+            "Id":2,
+
+        "School":"Westridge Secondary School",
+        "Duration":"4 Years",
+        "Awards":"Highest Mark for Tourism in Grade 12"
+        },
+        {
+            "Id":3,
+
+            "School":"College Of Cape Town",
+            "Duration":"1 Year",
+            "Awards":"Certificate for MSITA Web Design"
+
         }
+    
+        
    ],
 "skills": [
 {
+    "Id":1,
 
-    "skillsAndProwess":"HTML, CSS, Bootstrap, JavaScript, Photoshop, C#, Excel, Leadership skills, Eye for detail",
-   
+"Skill":"HTML",
+"SkillLevel":"Intermediate",
+"Description":"I have an intermediate knowledge of HTML and its basics"
+},
+{
+    "Id":2,
+
+"Skill":"CSS",
+"SkillLevel":"Intermediate",
+"Description":"I have an intermediate knowledge of CSS and how to style webpages using it"
+},
+{
+    "Id":3,
+
+    "Skill":"Bootstrap",
+    "SkillLevel":"Intermediate",
+    "Description":"I have an intermediate knowledge of Bootstrap and how to utilise it alongside CSS in order to create responsive webpages"
+
+},
+{
+    "Id":4,
+
+    "Skill":"JavaScript",
+    "SkillLevel":"Beginner",
+    "Description":"I have beginner knowledge of JavaScript and know how to utilise functions, constructor functions variables etc in order to create dynamic and interactive webpages however I have much to learn"
+
+
+},
+{
+    "Id":5,
+
+    "Skill":"Photoshop",
+    "SkillLevel":"Beginner",
+    "Description":"I have beginner knowledge of Photoshop mainly editing images, creating wireframes/mockups for prototype web pages and how to utilise various tools like smudge, burn etc"
+
+},
+{
+    "Id":6,
+
+    "Skill":"C#",
+    "SkillLevel":"Beginner",
+    "Description":"I have beginner knowledge of C# to write scripts"
+
+},
+{
+    "Id":7,
+
+    "Skill":"ASP.NET",
+    "SkillLevel":"Beginner",
+    "Description":"I have beginner knowledge of the ASP.NET client to work in conjunction with C# and to create master pages"
+
+},
+{
+    "Id":8,
+
+    "Skill":"Excel",
+    "SkillLevel":"Beginner",
+    "Description":"I have beginner knowledge of Microsoft Excel to work in order to create spreadsheets"
+
+},
+{
+    "Id":9,
+
+    "Skill":"Leadership Skills",
+    "SkillLevel":"Intermediate",
+    "Description":"I have intermediate knowledge of how to lead a team and how to give criticism to both my team and leaders"
+    
+},
+
+{
+    "Id":10,
+
+    "Skill":"Eye of detail",
+    "SkillLevel":"Advanced",
+    "Description":"I have an advanced knowledge on how to find mistakes and how to see intricate details"
 
 }
+
+   
+
+
 
 
 
@@ -93,66 +182,116 @@
 ],
 "projects": [
 {
+    "Id":1,
+
     "ProjectThumb":"wah",
     "ProjectName":"Midnight Animal",     
     "ProjectRepo": "https://github.com/RichtersHotline/Midnight-Animal.git",
     "ProjectLive":"midnight-animal.vercel.app"
 },
-{ 
+{
+    "Id":2,
+ 
     "ProjectThumb":"wah",
     "ProjectName":"Calculator App",     
-    "ProjectRepo": "https://github.com/RichtersHotline/Midnight-Animal.git",
-    "ProjectLive":"midnight-animal.vercel.app"
+    "ProjectRepo": "https://github.com/RichtersHotline/Calculator.git",
+    "ProjectLive":"https://calculator-five-alpha-64.vercel.app/"
 
 
 },
 {
+    "Id":3,
 
-
-
-
-},
-
-{
-
+    "ProjectThumb":"wah",
+    "ProjectName":"CSS Keyboard",     
+    "ProjectRepo": "https://github.com/RichtersHotline/Keyboard.git",
+    "ProjectLive":"keyboard-ruddy-nine.vercel.app"
 
 
 
 },
 
 {
+    "Id":4,
+
+    "ProjectThumb":"wah",
+    "ProjectName":"Sun Eco Travel",     
+    "ProjectRepo": "https://github.com/RichtersHotline/Sun-Eco-Home.git",
+    "ProjectLive":"sun-eco-home.vercel.app"
+
 
 
 },
-    // "calculatorAppRepo":"https://github.com/RichtersHotline/Calculator.git",
-    // "keyboardRepo":"https://github.com/RichtersHotline/Keyboard.git",
-    // "keyboardVercel":"keyboard-ruddy-nine.vercel.app",
-    // "sunEcoRepo":"https://github.com/RichtersHotline/Sun-Eco-Home.git",
-    // "sunEcoVercel":"sun-eco-home.vercel.app",
-    // "lasRepo":"https://github.com/RichtersHotline/LASWebsite.git",
-    // "lasVercel":"https://las-website-psi.vercel.app/",
-    // "previousPortfolioRepo":"https://github.com/RichtersHotline/PortfolioLegacy.git",
-    // "previousPortfolioVercel":"https://portfolio-legacy-weld.vercel.app/",
-    // "onlyStoreRepo":"https://github.com/RichtersHotline/OnlyStore.git",
-    // "onlyStoreVercel":"https://only-store.vercel.app/",
-    // "weddingStoreRepo":"https://github.com/RichtersHotline/WeddingStore.git",
-    // "weddingStoreVercel":"https://wedding-store-eight.vercel.app/",
-    // "huluCloneRepo":"https://github.com/RichtersHotline/huluApp.git",
-    // "huluCloneVercel":"https://hulu-app-rouge.vercel.app/"
 
-}    
+
+
+{
+    "Id":5,
+
+    "ProjectThumb":"wah",
+    "ProjectName":"LAS Website",     
+    "ProjectRepo": "https://github.com/RichtersHotline/LASWebsite.git",
+    "ProjectLive":"https://las-website-psi.vercel.app/"
+},
+{
+    "Id":6,
+
+    "ProjectThumb":"wah",
+    "ProjectName":"Previous Portfolio",     
+    "ProjectRepo": "https://github.com/RichtersHotline/PortfolioLegacy.git",
+    "ProjectLive":"https://portfolio-legacy-weld.vercel.app/"
+
+},
+{
+    "Id":7,
+
+    "ProjectThumb":"wah",
+    "ProjectName":"Only Store",     
+    "ProjectRepo": "https://github.com/RichtersHotline/OnlyStore.git",
+    "ProjectLive":"https://only-store.vercel.app/"
+
+}, 
+
+{
+    "Id":8,
+
+    "ProjectThumb":"wah",
+    "ProjectName":"Wedding Store",     
+    "ProjectRepo":"https://github.com/RichtersHotline/WeddingStore.git",
+    "ProjectLive":"https://wedding-store-eight.vercel.app/"
+
+},
+{
+    "Id":9,
+
+    "ProjectThumb":"wah",
+    "ProjectName":"Hulu Clone ",     
+    "ProjectRepo":"https://github.com/RichtersHotline/huluApp.git",
+    "ProjectLive":"https://hulu-app-rouge.vercel.app/"
+
+}
+  
+
+
 
 
 
 ],
 "experiences": [
     {
-    "Location1": "Pwned Games",
-    "Length1": "4 Months",
-    "description":"Test products, work with customers, stock management",
-    "Location2": "Life Choices Academy",
-    "description2": "Learn coding, participate in extra cirricular activities",
-    "Length2": "3 Months"
+        "Id":1,
+
+     "Company":"Pwned Games",
+    "JobDescription":"Test products, work with customers, stock management",
+    "Length": "4 Months"
+        },
+        {
+            "Id":2,
+            
+            "Company":"Life Choices Academy",
+            "JobDescription":"Test products, work with customers, stock management",
+            "Length": "3 Months"
+       
     }
 
 
