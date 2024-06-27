@@ -29,22 +29,30 @@
         {
             "Id":1,
             "School":"Montagu Drive Primary",
-            "Duration":"6 Years",
+            "Duration":"2008 - 2014",
             "Awards":"Certificate for Diligence"
         },
         {
             "Id":2,
 
         "School":"Westridge Secondary School",
-        "Duration":"4 Years",
+        "Duration":"2015 - 2019",
         "Awards":"Highest Mark for Tourism in Grade 12"
         },
         {
             "Id":3,
 
             "School":"College Of Cape Town",
-            "Duration":"1 Year",
+            "Duration":"2023 - 2023",
             "Awards":"Certificate for MSITA Web Design"
+
+        },
+        {
+            "Id":4,
+
+            "School":"Life Choices Academy",
+            "Duration":"Currently Attending",
+            "Awards":"N.A"
 
         }
     
@@ -192,7 +200,7 @@
 {
     "Id":2,
  
-    "ProjectThumb":"wah",
+    "ProjectThumb":"wah"k;;''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''===,
     "ProjectName":"Calculator App",     
     "ProjectRepo": "https://github.com/RichtersHotline/Calculator.git",
     "ProjectLive":"https://calculator-five-alpha-64.vercel.app/"
