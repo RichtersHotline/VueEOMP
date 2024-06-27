@@ -201,7 +201,7 @@
 {
     "Id":2,
  
-    "ProjectThumb":"wah"k;;''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''===,
+    "ProjectThumb":"wah",
     "ProjectName":"Calculator App",     
     "ProjectRepo": "https://github.com/RichtersHotline/Calculator.git",
     "ProjectLive":"https://calculator-five-alpha-64.vercel.app/"
