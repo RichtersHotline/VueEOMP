@@ -28,20 +28,21 @@
     "Education": [
         {
             "Id":1,
+            "SchoolImg":"https://richtershotline.github.io/Pimages/Images/Montagu.jpg",
             "School":"Montagu Drive Primary",
             "Duration":"2008 - 2014",
             "Awards":"Certificate for Diligence"
         },
         {
             "Id":2,
-
+            "SchoolImg":"https://richtershotline.github.io/Pimages/Images/Westridge.jpg",
         "School":"Westridge Secondary School",
         "Duration":"2015 - 2019",
         "Awards":"Highest Mark for Tourism in Grade 12"
         },
         {
             "Id":3,
-
+            "SchoolImg":"https://richtershotline.github.io/Pimages/Images/CoCT.jpg",
             "School":"College Of Cape Town",
             "Duration":"2023 - 2023",
             "Awards":"Certificate for MSITA Web Design"
@@ -49,7 +50,7 @@
         },
         {
             "Id":4,
-
+            "SchoolImg":"https://richtershotline.github.io/Pimages/Images/1630505581427.jpg",
             "School":"Life Choices Academy",
             "Duration":"Currently Attending",
             "Awards":"N.A"
