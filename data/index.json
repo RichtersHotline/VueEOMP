@@ -291,14 +291,16 @@
         "Id":1,
 
      "Company":"Pwned Games",
+     "jobN":"Sales Assistant",
     "JobDescription":"Test products, work with customers, stock management",
-    "Length": "4 Months"
+    "Length": "2021 - 2022"
         },
         {
             "Id":2,
             
-            "Company":"Life Choices Academy",
-            "JobDescription":"Test products, work with customers, stock management",
+            "Company":"Volunteer Work at Westridge High Library",
+            "jobN":"General Assistant",
+            "JobDescription":"My duties were re-ordering books based on series, alphabetical order chronology, genre as well as monitoring PCs",
             "Length": "3 Months"
        
     }
