@@ -126,31 +126,60 @@
 {
     "Id":9,
 
-    "Skill":"Leadership Skills",
-    "SkillLevel":"Intermediate",
-    "Description":"I have intermediate knowledge of how to lead a team and how to give criticism to both my team and leaders"
+    "Skill":"Python",
+    "SkillLevel":"Beginner",
+    "Description":"I have beginner knowledge of how to use python in order to create different kinds of webpages and applications."
     
 },
 
 {
     "Id":10,
 
-<<<<<<< HEAD
-    "Skill":"Vue.Js",
-    "SkillLevel":"Beginner",
-    "Description":"I have an beginner knowledge on how to use the javascript framework known as vuejs"
-=======
-    "Skill":"Eye of detail",
+    "Skill":"Vue.JS",
     "SkillLevel":"Advanced",
-    "Description":"I have an advanced knowledge on how to find mistakes and how to see intricate details"
->>>>>>> parent of e73132b (vue)
+    "Description":"I have beginner knowledge of the JavaScript framework VueJs"
+
+},
+{
+    "Id":11,
+
+    "Skill":"Leadership",
+    "SkillLevel":"Advanced",
+    "Description":"I have advanced knowledge of how to lead a team and how to give criticism to my team in order for them to improve"
+
+},
+{
+    "Id":12,
+
+    "Skill":"Problem Solving",
+    "SkillLevel":"Intermediate",
+    "Description":"I have intermediate knowledge of how to approach a problem and the steps needed to solve it"
+
+},
+{
+    "Id":13,
+
+    "Skill":"Eye for Detail",
+    "SkillLevel":"Intermediate",
+    "Description":"I have intermediate knowledge of how to spot mistakes and identify mistakes"
+
+},
+{
+    "Id":14,
+
+    "Skill":"Public Speaking",
+    "SkillLevel":"Advanced",
+    "Description":"I have Advanced knowledge of how to speak in front of a group of people without being nervous"
+
+},
+{
+    "Id":14,
+
+    "Skill":"Motivation",
+    "SkillLevel":"Intermediate",
+    "Description":"I have intermediate knowledge of how to stay motivated"
 
 }
-
-   
-
-
-
 
 
 ],
