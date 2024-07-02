@@ -135,9 +135,9 @@
 {
     "Id":10,
 
-    "Skill":"Eye of detail",
-    "SkillLevel":"Advanced",
-    "Description":"I have an advanced knowledge on how to find mistakes and how to see intricate details"
+    "Skill":"VueJs",
+    "SkillLevel":"Beginner",
+    "Description":"I have an beginner knowledge on how to use the javascript framework known as vuejs"
 
 }
 
