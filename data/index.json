@@ -21,10 +21,77 @@
     ],
 
     "About": [
-         {
-            "Aboutme":"My name is Keenan Timmie I am an aspiring developer currently studying at Life Choices Academy I would say I am a junior developer, I started dabbling in coding from 14 just simple stuff at first never took CAT or anything like that so I had to teach myself. After a while I gradually tried harder and harder coding languages I would describe myself as a hard worker and an ambitious SOB (Son of a Birch) Nothing's ever enough for me, The road to success is not a road, but a ladder all that matters is climbing higher and higher until you reach the top. in my spare time I like to read history, play games read novels and code. I would like to say I'm a people person but that'd be a fib and that's illegal (I think). Honestly if I could just summarise as to what my goals are is that I want to be an example, coming from a hopeless suburb (Mitchells Plain) where people think everyone is lazy and useless I want to prove them wrong and I want to prove to the people of Mitchells Plain that through hard work and dedication you CAN have better conditions (also better hair)."
-         }
-    ],
+        {
+           "Id":1,
+           "AboutMeText":"Hello to whomever is reading this. As you probably guessed my name is Keenan Timme. I've been interested in computers ever since I can remember I must've been age 4 when I first started actively using computers. Ever since I always knew that my job had to do with computers in someway or another."
+        },
+        {
+           "Id":2,
+    "AboutMeText":"My story is somewhat common I would think. I am from Colorado Park, Mitchell's Plain. Not a nice area but hey beggars can't be choosers as they say. I started coding when i was around 12 my reasoning being was that I wanted to see how games worked. Looked it up and saw something called programming which looked like a foreign language to me. (Still does) And then kinda coded on and off. Self teaching myself with the Unity Game Engine, doing html and css on the side. Learning C# never got around to 3D modeling so all my playermodels were cylinders."
+
+        },
+{    "id":3,
+   "AboutMeText":"Ever since I was in High School I felt like such a let down. I didn't get that good of grades I mean I didn't get zeroes and ones, I was very average but I always wanted to be more than average. I just wanted to show the world I can do it that I will do it. I've found my passion which is programming and I am willing to go as far as I need to to achieve my aspirations. I want to be the outlier. Where i'm from you're not supposed to 'make it' you just settle for a retail job or a cleaner or whatever and that's it that's what you get if you're from Mitchell's Plain. I want to break that. I want to be a leader I want people from my area to go 'He can make it so can I'."
+
+
+},
+{
+   "Id":4,
+"HobbyFav":"Favourite Game: Hotline Miami 2",
+"HobbyImg":"https://richtershotline.github.io/Pimages/Images/HotlineMiami2_Cover.webp"
+
+
+},
+{
+   "Id":5,
+   "HobbyFav":"Favourite Book: Game Of Thrones",
+"HobbyImg":"https://richtershotline.github.io/Pimages/Images/GameThrones.jpg"
+},
+{
+   "Id":6,
+   "HobbyFav":"Favourite topic: World War 2",
+"HobbyImg":"https://richtershotline.github.io/Pimages/Images/Berlin.jpg"
+},
+{
+
+   "Id":6,
+   "SpokenLang":"English - Fluent"
+
+},
+{
+   "Id":7,
+   "SpokenLang":"Spanish - Learning"
+},
+{
+    "Id":8,
+    "SpokenLang": "Afrikaans - Advanced"
+
+},
+{
+
+   "Id":9,
+   "Quote":"The guy who gets knocked down isn't the loser it's the guy that can't get back up, he's the one who loses -Daisuku Kuze"
+
+},
+{
+"Id":10,
+"Dev":"Frontend Development"
+
+
+
+},
+
+{
+"Id":11,
+"Site":"Youtube"
+
+},
+{
+"Id":12,
+"Quality":"Loyal"
+
+}
+],
     "Education": [
         {
             "Id":1,
