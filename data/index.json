@@ -362,18 +362,9 @@
     "ProjectLive":"https://only-store.vercel.app/"
 
 }, 
-
+  
 {
     "Id":8,
-
-    "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/Wedding.png",
-    "ProjectName":"Wedding Store",     
-    "ProjectRepo":"https://github.com/RichtersHotline/WeddingStore.git",
-    "ProjectLive":"https://wedding-store-eight.vercel.app/"
-
-},
-{
-    "Id":9,
 
     "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/HuluApp1.png",
     "ProjectName":"Hulu Clone ",     
