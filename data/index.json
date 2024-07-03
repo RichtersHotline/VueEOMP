@@ -295,7 +295,7 @@
 {
     "Id":1,
 
-    "ProjectThumb":"whttps://richtershotline.github.io/Pimages/Images/Midnight.png",
+    "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/Midnight.png",
     "ProjectName":"Midnight Animal",     
     "ProjectRepo": "https://github.com/RichtersHotline/Midnight-Animal.git",
     "ProjectLive":"midnight-animal.vercel.app"
@@ -347,7 +347,7 @@
 {
     "Id":6,
 
-    "ProjectThumb":"whttps://richtershotline.github.io/Pimages/Images/PortfolioClassicHome.png",
+    "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/PortfolioClassicHome.png",
     "ProjectName":"Previous Portfolio",     
     "ProjectRepo": "https://github.com/RichtersHotline/PortfolioLegacy.git",
     "ProjectLive":"https://portfolio-legacy-weld.vercel.app/"
