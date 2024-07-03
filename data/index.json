@@ -253,35 +253,35 @@
 "Testimonials": [
 {
 "id":1,
-"MonialImg":"wa",
+"MonialImg":"https://richtershotline.github.io/Pimages/Images/Testimage1.jpg",
 "MonialFName":"Imraaan",
 "MonialLName":"Sheldon",
 "testimonialQuote": "A capable individual who keeps to himself often. Very too himself, but also very soft-spoken and respectable. He does what needs to be done without question and gets it done. Simply put, Reliable. -Imraaan Sheldon"
 },
 {
     "id":2,
-    "MonialImg":"wa",
+    "MonialImg":"https://richtershotline.github.io/Pimages/Images/Testimage2.jpg",
     "MonialFName":"Sipho",
     "MonialLName":"Nbeke",
     "testimonialQuote": "It is a great honor for me to share my testimonial for Keenan Timmie. For the times that I have worked alongside him, he always have a strong collaboration character. He is a reliable being. He takes well every challenge infront of him, and always seeks to solve them effeciently. -Sipho Nkebe"
 },
 {
     "id":3,
-    "MonialImg":"wa",
+    "MonialImg":"https://richtershotline.github.io/Pimages/Images/Testimage3.jpg",
     "MonialFName":"Abdurahmaan",
     "MonialLName":"Charif",
     "testimonialQuote": "Keenan is a highly talented individual that has deep insight in coding. He is a great colleague and demonstrates the ability to work well with others as well individually."
 },
 {
     "id":4,
-    "MonialImg":"wa",
+    "MonialImg":"https://richtershotline.github.io/Pimages/Images/joel2.jpg",
     "MonialFName":"Joel",
     "MonialLName":"Mukanya",
     "testimonialQuote":"Keenan is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with his peers and excels at working on project assignments"
 },
 {
 "id":5,
-    "MonialImg":"wa",
+    "MonialImg":"https://richtershotline.github.io/Pimages/Images/Testimage4.jpg",
     "MonialFName":"Leah",
     "MonialLName":"Basson",
     "testimonialQuote":"Keenan has a great work ethic, he is very talented and creative. He has great time management skills and puts his all into what he does. He is always willing to help and will be an asset to anyone he works with."
@@ -295,7 +295,7 @@
 {
     "Id":1,
 
-    "ProjectThumb":"wah",
+    "ProjectThumb":"whttps://richtershotline.github.io/Pimages/Images/Midnight.png",
     "ProjectName":"Midnight Animal",     
     "ProjectRepo": "https://github.com/RichtersHotline/Midnight-Animal.git",
     "ProjectLive":"midnight-animal.vercel.app"
@@ -303,7 +303,7 @@
 {
     "Id":2,
  
-    "ProjectThumb":"wah",
+    "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/Calc2.png",
     "ProjectName":"Calculator App",     
     "ProjectRepo": "https://github.com/RichtersHotline/Calculator.git",
     "ProjectLive":"https://calculator-five-alpha-64.vercel.app/"
@@ -313,7 +313,7 @@
 {
     "Id":3,
 
-    "ProjectThumb":"wah",
+    "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/keyboard.png",
     "ProjectName":"CSS Keyboard",     
     "ProjectRepo": "https://github.com/RichtersHotline/Keyboard.git",
     "ProjectLive":"keyboard-ruddy-nine.vercel.app"
@@ -325,7 +325,7 @@
 {
     "Id":4,
 
-    "ProjectThumb":"wah",
+    "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/SunEco.png",
     "ProjectName":"Sun Eco Travel",     
     "ProjectRepo": "https://github.com/RichtersHotline/Sun-Eco-Home.git",
     "ProjectLive":"sun-eco-home.vercel.app"
@@ -339,7 +339,7 @@
 {
     "Id":5,
 
-    "ProjectThumb":"wah",
+    "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/LAS.png",
     "ProjectName":"LAS Website",     
     "ProjectRepo": "https://github.com/RichtersHotline/LASWebsite.git",
     "ProjectLive":"https://las-website-psi.vercel.app/"
@@ -347,7 +347,7 @@
 {
     "Id":6,
 
-    "ProjectThumb":"wah",
+    "ProjectThumb":"whttps://richtershotline.github.io/Pimages/Images/PortfolioClassicHome.png",
     "ProjectName":"Previous Portfolio",     
     "ProjectRepo": "https://github.com/RichtersHotline/PortfolioLegacy.git",
     "ProjectLive":"https://portfolio-legacy-weld.vercel.app/"
@@ -356,7 +356,7 @@
 {
     "Id":7,
 
-    "ProjectThumb":"wah",
+    "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/Only.png",
     "ProjectName":"Only Store",     
     "ProjectRepo": "https://github.com/RichtersHotline/OnlyStore.git",
     "ProjectLive":"https://only-store.vercel.app/"
@@ -366,7 +366,7 @@
 {
     "Id":8,
 
-    "ProjectThumb":"wah",
+    "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/Wedding.png",
     "ProjectName":"Wedding Store",     
     "ProjectRepo":"https://github.com/RichtersHotline/WeddingStore.git",
     "ProjectLive":"https://wedding-store-eight.vercel.app/"
@@ -375,7 +375,7 @@
 {
     "Id":9,
 
-    "ProjectThumb":"wah",
+    "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/HuluApp1.png",
     "ProjectName":"Hulu Clone ",     
     "ProjectRepo":"https://github.com/RichtersHotline/huluApp.git",
     "ProjectLive":"https://hulu-app-rouge.vercel.app/"
