@@ -305,7 +305,7 @@
     "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/Midnight.png",
     "ProjectName":"Midnight Animal",
     "ProjectTagline":"An Ecommerce Website",
-    "ProjectDesc":"A Club Website created using Javascript, HTML, CSS and Bootstrap",     
+    "ProjectDesc":"Club Website created using Javascript, HTML and CSS",     
     "ProjectRepo": "https://github.com/RichtersHotline/Midnight-Animal.git",
     "ProjectLive":"https://midnight-animal.vercel.app/"
 },
@@ -390,7 +390,7 @@
     "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/HuluApp1.png",
     "ProjectName":"Hulu Clone ",
     "ProjectTagline":"Hulu Store",
-    "ProjectDesc":"a Hulu website clone using Javascript, HTML and CSS",              
+    "ProjectDesc":"A Hulu website clone using Javascript, HTML and CSS",              
     "ProjectRepo":"https://github.com/RichtersHotline/huluApp.git",
     "ProjectLive":"https://hulu-app-rouge.vercel.app/"
 
