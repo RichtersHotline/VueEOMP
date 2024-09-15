@@ -303,7 +303,9 @@
     "Id":1,
 
     "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/Midnight.png",
-    "ProjectName":"Midnight Animal",     
+    "ProjectName":"Midnight Animal",
+    "ProjectTagline":"An Ecommerce Website",
+    "ProjectDesc":"An Ecommerce Website created using Javascript, HTML, CSS and Bootstrap",     
     "ProjectRepo": "https://github.com/RichtersHotline/Midnight-Animal.git",
     "ProjectLive":"https://midnight-animal.vercel.app/"
 },
@@ -311,7 +313,9 @@
     "Id":2,
  
     "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/Calc2.png",
-    "ProjectName":"Calculator App",     
+    "ProjectName":"Calculator App",
+    "ProjectTagline":"A Functional Calculator",
+    "ProjectDesc":"A fully functional calculator made using CSS and JavaScript.",      
     "ProjectRepo": "https://github.com/RichtersHotline/Calculator.git",
     "ProjectLive":"https://calculator-five-alpha-64.vercel.app/"
 
@@ -321,7 +325,9 @@
     "Id":3,
 
     "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/keyboard.png",
-    "ProjectName":"CSS Keyboard",     
+    "ProjectName":"CSS Keyboard",
+    "ProjectTagline":"A CSS Keyboard",
+    "ProjectDesc":"This is a keyboard that was made using CSS only.",         
     "ProjectRepo": "https://github.com/RichtersHotline/Keyboard.git",
     "ProjectLive":"https://keyboard-ruddy-nine.vercel.app/"
 
@@ -333,7 +339,9 @@
     "Id":4,
 
     "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/SunEco.png",
-    "ProjectName":"Sun Eco Travel",     
+    "ProjectName":"Sun Eco Travel",
+    "ProjectTagline":"A Travel Website",
+    "ProjectDesc":"Sun Eco is a travel website I made using CSS and HTML.",      
     "ProjectRepo": "https://github.com/RichtersHotline/Sun-Eco-Home.git",
     "ProjectLive":"https://sun-eco-home.vercel.app/"
 
@@ -347,7 +355,9 @@
     "Id":5,
 
     "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/LAS.png",
-    "ProjectName":"LAS Website",     
+    "ProjectName":"LAS Website", 
+    "ProjectTagline":"An Consultation Website",
+    "ProjectDesc":"LAS is a consultation website for construction, using HTML and CSS",     
     "ProjectRepo": "https://github.com/RichtersHotline/LASWebsite.git",
     "ProjectLive":"https://las-website-psi.vercel.app/"
 },
@@ -355,7 +365,9 @@
     "Id":6,
 
     "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/PortfolioClassicHome.png",
-    "ProjectName":"Previous Portfolio",     
+    "ProjectName":"Previous Portfolio",
+    "ProjectTagline":"Very first Portfolio",
+    "ProjectDesc":"This was my very first portfolio using HTML and CSS.",          
     "ProjectRepo": "https://github.com/RichtersHotline/PortfolioLegacy.git",
     "ProjectLive":"https://portfolio-legacy-weld.vercel.app/"
 
@@ -364,7 +376,9 @@
     "Id":7,
 
     "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/Only.png",
-    "ProjectName":"Only Store",     
+    "ProjectName":"Only Store",
+    "ProjectTagline":"A Clothing Store Website",
+    "ProjectDesc":"A simple store that sells clothing was built using CSS and HTML",         
     "ProjectRepo": "https://github.com/RichtersHotline/OnlyStore.git",
     "ProjectLive":"https://only-store.vercel.app/"
 
@@ -374,7 +388,9 @@
     "Id":8,
 
     "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/HuluApp1.png",
-    "ProjectName":"Hulu Clone ",     
+    "ProjectName":"Hulu Clone ",
+    "ProjectTagline":"Hulu Store",
+    "ProjectDesc":"I attempted to clone the Hulu website using Javascript, HTML and CSS",              
     "ProjectRepo":"https://github.com/RichtersHotline/huluApp.git",
     "ProjectLive":"https://hulu-app-rouge.vercel.app/"
 
