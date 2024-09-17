@@ -53,6 +53,23 @@
 "HobbyImg":"https://richtershotline.github.io/Pimages/Images/Berlin.jpg"
 },
 {
+"Id":7,
+"HobbyFav":"Favourite Bird: Pigeon"
+
+
+
+},
+{
+"Id":8,
+"HobbyFav":"Favourite Place: The Beach"
+
+},
+{
+"Id":9,
+"HobbyFav":"Favourite : Keep learning"
+
+}
+{
 
    "Id":6,
    "SpokenLang":"English - Fluent"
@@ -93,13 +110,6 @@
 }
 ],
     "Education": [
-        {
-            "Id":1,
-            "SchoolImg":"https://richtershotline.github.io/Pimages/Images/Montagu.jpg",
-            "School":"Montagu Drive Primary",
-            "Duration":"2008 - 2014",
-            "Awards":"Certificate for Diligence"
-        },
         {
             "Id":2,
             "SchoolImg":"https://richtershotline.github.io/Pimages/Images/Westridge.jpg",
