@@ -329,7 +329,7 @@
     "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/Calc2.png",
     "ProjectName":"Calculator App",
     "ProjectTagline":"A Functional Calculator",
-    "ProjectDesc":"A fully functional calculator made using CSS and JavaScript.",      
+    "ProjectDesc":"A fully functional calculator made using CSS and JavaScript",      
     "ProjectRepo": "https://github.com/RichtersHotline/Calculator.git",
     "ProjectLive":"https://calculator-five-alpha-64.vercel.app/"
 
@@ -355,7 +355,7 @@
     "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/SunEco.png",
     "ProjectName":"Sun Eco Travel",
     "ProjectTagline":"A Travel Website",
-    "ProjectDesc":"Sun Eco is a travel website I made using CSS and HTML.",      
+    "ProjectDesc":"Sun Eco is a travel website I made using CSS and HTML",      
     "ProjectRepo": "https://github.com/RichtersHotline/Sun-Eco-Home.git",
     "ProjectLive":"https://sun-eco-home.vercel.app/"
 
@@ -381,7 +381,7 @@
     "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/PortfolioClassicHome.png",
     "ProjectName":"Previous Portfolio",
     "ProjectTagline":"Very first Portfolio",
-    "ProjectDesc":"This was my very first portfolio using HTML and CSS.",          
+    "ProjectDesc":"This was my very first portfolio using HTML and CSS",          
     "ProjectRepo": "https://github.com/RichtersHotline/PortfolioLegacy.git",
     "ProjectLive":"https://portfolio-legacy-weld.vercel.app/"
 
