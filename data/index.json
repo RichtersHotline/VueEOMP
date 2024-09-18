@@ -71,27 +71,27 @@
 },
 {
 
-   "Id":6,
+   "Id":10,
    "SpokenLang":"English - Fluent"
 
 },
 {
-   "Id":7,
+   "Id":11,
    "SpokenLang":"Spanish - Learning"
 },
 {
-    "Id":8,
+    "Id":12,
     "SpokenLang": "Afrikaans - Advanced"
 
 },
 {
 
-   "Id":9,
+   "Id":13,
    "Quote":"The guy who gets knocked down isn't the loser it's the guy that can't get back up, he's the one who loses -Daisuku Kuze"
 
 },
 {
-"Id":10,
+"Id":14,
 "Dev":"Frontend Development"
 
 
@@ -99,12 +99,12 @@
 },
 
 {
-"Id":11,
+"Id":15,
 "Site":"Youtube"
 
 },
 {
-"Id":12,
+"Id":16,
 "Quality":"Loyal"
 
 }
@@ -115,14 +115,16 @@
             "SchoolImg":"https://richtershotline.github.io/Pimages/Images/Westridge.jpg",
         "School":"Westridge Secondary School",
         "Duration":"2015 - 2019",
-        "Awards":"Highest Mark for Tourism in Grade 12"
+        "Awards":"Highest Mark for Tourism in Grade 12",
+        
         },
         {
             "Id":3,
             "SchoolImg":"https://richtershotline.github.io/Pimages/Images/CoCT.jpg",
             "School":"College Of Cape Town",
             "Duration":"2023 - 2023",
-            "Awards":"Certificate for MSITA Web Design"
+            "Awards":"Certificate for MSITA Web Design",
+            "EduDesc":"I learnt how to utilise ASP.Net, Python, JavaScript, HTML, CSS, C#, SQL as well as using Photoshop to create wireframes and mockups."
 
         },
         {
@@ -130,7 +132,8 @@
             "SchoolImg":"https://richtershotline.github.io/Pimages/Images/1630505581427.jpg",
             "School":"Life Choices Academy",
             "Duration":"Currently Attending",
-            "Awards":"N.A"
+            "Awards":"Certificate for VueJS and JavaScript.",
+            "EduDesc":"I learnt on how to further use HTML, CSS, JavaScript. I also learnt new things such as Git, Vue.Js, Node.JS and MySQL."
 
         }
     
