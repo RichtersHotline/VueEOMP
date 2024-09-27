@@ -401,12 +401,12 @@
 {
     "Id":8,
 
-    "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/HuluApp1.png",
-    "ProjectName":"Hulu Clone ",
-    "ProjectTagline":"Hulu Store",
-    "ProjectDesc":"A Hulu website clone using Javascript, HTML and CSS",              
-    "ProjectRepo":"https://github.com/RichtersHotline/huluApp.git",
-    "ProjectLive":"https://hulu-app-rouge.vercel.app/"
+    "ProjectThumb":"https://richtershotline.github.io/Pimages/Images/Valentine.png",
+    "ProjectName":"Valentine's ",
+    "ProjectTagline":"A Suit Store",
+    "ProjectDesc":"A Suit Store made using Node.Js for functionality",              
+    "ProjectRepo":"https://github.com/AkhonaMj/node_project",
+    "ProjectLive":"https://valentine-s-9a88d.web.app/"
 
 }
   
